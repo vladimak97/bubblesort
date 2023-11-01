@@ -1,2 +1,2 @@
-# bubblesort
+# BubbleSort
 SPOJ BubbleSort
